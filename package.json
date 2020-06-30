@@ -1,0 +1,15 @@
+{
+  "name": "binary_hero-blog",
+  "version": "1.0.0",
+  "description": "Binary Hero, Co Blog",
+  "main": "index.js",
+  "repository": "https://github.com/ericNunnDev/binary_hero-blog.git",
+  "author": "Eric M Nunn",
+  "license": "GNU",
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "cypress": "^4.9.0",
+    "express": "^4.17.1",
+    "knex": "^0.21.1"
+  }
+}
